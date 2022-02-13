@@ -1,0 +1,39 @@
+.container {
+  text-align: center;
+  margin-top: 37px;
+}
+
+table {
+  margin: auto;
+}
+
+input {
+  border-radius: 9px;
+  font-size: 31px;
+  height: 30px;
+  width: 240px;
+  margin-top: 4px;
+  border: 2px solid #ff8f00;
+}
+
+button {
+  border-radius: 9px;
+  font-size: 22px;
+  height: 37px;
+  width: 57px;
+  margin: 3px;
+  background: #ff8f00;
+}
+
+.calculator {
+  display: inline-block;
+  background: #000;
+  border-radius: 20px;
+  padding: 10px;
+  border: 4px solid rebeccapurple;
+}
+
+h1{
+    font-size: 28px;
+    font-family: 'Quintessential', cursive;
+}
